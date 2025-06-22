@@ -17,8 +17,12 @@
 - Component-based architecture
 - 
 ## 🖼️ Screenshots
-<!-- Add screenshots here if available -->
-<!-- ![Home Page](public/Screenshot_50.png) -->
+Here is a preview of the MegaBlaze home page:
+![Home Page](https://raw.githubusercontent.com/sohag55rana/reace-megablaze/refs/heads/main/Screenshot_50.png)
+![Home Page](https://raw.githubusercontent.com/sohag55rana/reace-megablaze/refs/heads/main/Screenshot_53.png)
+![Home Page](https://raw.githubusercontent.com/sohag55rana/reace-megablaze/refs/heads/main/Screenshot_54.png)
+![Home Page](https://raw.githubusercontent.com/sohag55rana/reace-megablaze/refs/heads/main/Screenshot_55.png)
+
 
 ## ⚙️ Installation & Run Locally
 ```bash
