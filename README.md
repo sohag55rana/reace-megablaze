@@ -18,7 +18,7 @@
 - 
 ## 🖼️ Screenshots
 <!-- Add screenshots here if available -->
-<!-- ![Home Page](public/screenshot.png) -->
+<!-- ![Home Page](public/Screenshot_50.png) -->
 
 ## ⚙️ Installation & Run Locally
 ```bash
