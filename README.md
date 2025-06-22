@@ -1,12 +1,45 @@
-# React + Vite
+# 🚀 MegaBlaze
+**MegaBlaze** is a responsive and modern web application built with **React.js**, **Tailwind CSS**, and **Vite**. It is a UI-focused frontend project, perfect for showcasing in job interviews or portfolios.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Demo
+👉 [Visit MegaBlaze](https://reace-megablaze.vercel.app)
 
-Currently, two official plugins are available:
+## 💻 Tech Stack
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- 🔀 React Router DOM
+- 
+## ✨ Features
+- Fully responsive design (Mobile + Desktop)
+- Clean and intuitive navigation
+- Fast loading with Vite
+- Component-based architecture
+- 
+## 🖼️ Screenshots
+<!-- Add screenshots here if available -->
+<!-- ![Home Page](public/screenshot.png) -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Installation & Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/sohag55rana/reace-megablaze.git
 
-## Expanding the ESLint configuration
+# Go to project directory
+cd reace-megablaze
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
+
+👤 Author
+GitHub: @sohag55rana
+
+📜 License
+This project is open source and available under the MIT License.
+
+🙌 Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
